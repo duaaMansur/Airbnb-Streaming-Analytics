@@ -106,6 +106,4 @@ streamlit run streamlit.py
 
 This project is intended for academic and educational purposes only.
 
-```
-
 
