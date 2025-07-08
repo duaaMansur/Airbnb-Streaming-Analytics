@@ -1,14 +1,14 @@
-# 🏡 Airbnb Real-Time Big Data Analytics
+# Airbnb Real-Time Big Data Analytics
 
 > Real-time analytics pipeline for Airbnb user interactions using Kafka, Spark Streaming, Cassandra, and Streamlit.
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates a real-time big data solution for analyzing Airbnb user activities such as bookings, cancellations, and views. It provides live visual insights to support better decision-making on the platform.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Apache Kafka** – Real-time event ingestion  
 - **Apache Spark Streaming** – Stream processing and transformation  
@@ -19,7 +19,7 @@ This project demonstrates a real-time big data solution for analyzing Airbnb use
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 
@@ -49,7 +49,7 @@ Kafka → Spark Streaming → Cassandra → Streamlit
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone the Repository
 
@@ -91,7 +91,7 @@ streamlit run streamlit.py
 
 ---
 
-## 📊 Features
+## Features
 
 * Real-time insights into:
 
@@ -102,15 +102,7 @@ streamlit run streamlit.py
 
 ---
 
-## 🚀 Future Improvements
-
-* Integrate larger, real Airbnb datasets
-* Add ML models to predict user actions
-* Scale the system to handle production-level traffic
-
----
-
-## 📝 License
+## License
 
 This project is intended for academic and educational purposes only.
 
